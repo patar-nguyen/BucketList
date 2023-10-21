@@ -1,5 +1,5 @@
 # BucketList
- BucketList is an app that lets the user build a private list of places on the map, add a description for tha place, look up interesting places that are nearby, and save it all to the documents directory.
+ BucketList is an app that lets the user build a private list of places on the map, add a description for that place, look up interesting places that are nearby, and save it all to the documents directory.
  
 ## Dependencies
 - SwiftUI
